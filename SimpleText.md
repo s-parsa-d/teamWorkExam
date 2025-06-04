@@ -13,3 +13,5 @@ pursue more specialized studies in the science as well as one that will enable
 those in other fields to flourish in an increasingly technical society.
 
 first text from parsa
+
+first text from mobina
