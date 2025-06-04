@@ -11,3 +11,5 @@ understanding of computer science:
 one that will support those who wish to
 pursue more specialized studies in the science as well as one that will enable
 those in other fields to flourish in an increasingly technical society.
+
+first text from parsa
